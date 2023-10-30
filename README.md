@@ -1,5 +1,7 @@
-# TallerGrupal03
-
+# TallerGrupal02
+Integrantes: 
+* Marco Abarca Rodriguez
+* Lady Yasmín Robalino
 ## A. Análisis y creación de algoritmos sobre problemas computacionales
 
 * Leer cada problemática y generar un algoritmo.
